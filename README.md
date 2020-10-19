@@ -4,4 +4,10 @@
 
 **1)CREATING FILES:**
 
-![Create file](https://d2aj9sy12tbpym.cloudfront.net/progate/shared/images/slide/commandline/study/1/1505437746182.png)
+*General Syntax:*
+
+> $ touch file_name
+
+*Example:*
+
+> $ touch sample.txt
