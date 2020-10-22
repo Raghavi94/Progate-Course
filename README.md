@@ -126,6 +126,6 @@ html $-->current directory is displayed here
 
 > $ rm index.txt
 
-# [To practice the command line visit this link](https://progate.com/commandline/study/1/13#/32)
+# [To practice the Command Line visit this link](https://progate.com/commandline/study/1/13#/32)
 
 
