@@ -214,7 +214,7 @@ html $-->current directory is displayed here
 
 > $ code .
 
-### by using this syntax , you will automatically redirected to VS Code and we can modify the code.
+### By using this syntax , you will be automatically redirected to VS Code and we can modify the code.
 
 
 
