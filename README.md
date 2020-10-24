@@ -132,8 +132,20 @@ html $-->current directory is displayed here
 
 **1) Creating a new empty repository**
 
-- Syntax:
+- General Syntax:
 
 > $ git init
+
+**2) Selecting files to share**
+
+- General Syntax:
+
+> $ git add file_name
+
+- Example:
+
+> $ git add index.html
+
+
 
 
