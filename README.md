@@ -188,6 +188,22 @@ html $-->current directory is displayed here
 
 <img src="https://lh3.googleusercontent.com/zgY43xtN6BAfKE38-Ff86olmqJb0FUu24X6cZZfv0GjklZ5w4qqH-z24txWCzplS8wftzw=s116" height="250px" width="250px">
 
+**8) Recognizing modified files**
+
+- General Syntax:
+
+> $ git status
+
+**9) Recognizing content changes:**
+
+- General Syntax:
+
+> $ git diff
+
+**10) Checking added files**
+
+<img src="https://lh3.googleusercontent.com/_e2fstq1hjIoJ2PIOZ0E3sXv5y00BJXSiTusDzNNJIKwhePjRHD9iFeyw9AxEkcDDnOz0Q=s116" width="250px" height="250px">
+
 
 
 
