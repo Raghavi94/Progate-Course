@@ -146,6 +146,18 @@ html $-->current directory is displayed here
 
 > $ git add index.html
 
+**3) Saving the added files**
+
+- General Syntax:
+
+> $ git commit -m "Commit message"
+
+- Example:
+
+> $ git commit -m "Create index.html"
+
+
+
 
 
 
