@@ -160,6 +160,34 @@ html $-->current directory is displayed here
 
 <img src="https://lh3.googleusercontent.com/69cf8dWTmfWTrM794I4xOulxtN5MulzH1RlcbK9F_-XkFzg54GJGoApSdSLQ58-1s9iKBg=s116" height="250px" width="250px" alt="Reference">
 
+- General Syntax:
+
+> $ git remote add remote_name remote _URL
+
+- Example:
+
+> $ git remote add origin https://prog-8.com/mysite.git
+
+**5) Uploading files**
+
+- General Syntax:
+
+> $ git push remote_name master
+
+- Example:
+
+> $ git push origin master
+
+**6) Downloading files from remote**
+
+- Example:
+
+> $ git pull origin master
+
+**7) Git flow review**
+
+<img src="https://d2aj9sy12tbpym.cloudfront.net/progate/shared/images/slide/git/study/1/1505178675471.png" height="250px" width="250px">
+
 
 
 
