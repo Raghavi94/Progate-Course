@@ -204,6 +204,10 @@ html $-->current directory is displayed here
 
 <img src="https://lh3.googleusercontent.com/_e2fstq1hjIoJ2PIOZ0E3sXv5y00BJXSiTusDzNNJIKwhePjRHD9iFeyw9AxEkcDDnOz0Q=s116" width="250px" height="250px">
 
+- Green color line:files that are added
+
+- Red color line:files that are not added
+
 
 
 
