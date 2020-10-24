@@ -158,7 +158,7 @@ html $-->current directory is displayed here
 
 **4) Adding remote repository**
 
-![Reference](https://lh3.googleusercontent.com/69cf8dWTmfWTrM794I4xOulxtN5MulzH1RlcbK9F_-XkFzg54GJGoApSdSLQ58-1s9iKBg=s116)
+<img src="https://lh3.googleusercontent.com/69cf8dWTmfWTrM794I4xOulxtN5MulzH1RlcbK9F_-XkFzg54GJGoApSdSLQ58-1s9iKBg=s116" height="250px" width="250px" alt="Reference">
 
 
 
