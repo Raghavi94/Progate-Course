@@ -1,4 +1,4 @@
-# Progate-Course
+# Progate-CL-Course
 
 ## This repository has unix command-line cheatsheet.
 
@@ -127,5 +127,7 @@ html $-->current directory is displayed here
 > $ rm index.txt
 
 # [To practice the Command Line visit this link](https://progate.com/commandline/study/1/13#/32)
+
+# Progate-git-course
 
 
