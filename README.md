@@ -132,4 +132,8 @@ html $-->current directory is displayed here
 
 **1) Creating a new empty repository**
 
+- Syntax:
+
+> $ git init
+
 
