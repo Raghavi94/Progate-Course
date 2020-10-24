@@ -130,4 +130,6 @@ html $-->current directory is displayed here
 
 # Progate-git-course:
 
+**1)Creating a new empty repository**
+
 
