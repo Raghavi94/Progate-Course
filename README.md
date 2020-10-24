@@ -208,6 +208,14 @@ html $-->current directory is displayed here
 
 - Red color line:files that are not added
 
+**11) To make changes in the editor**
+
+- General Syntax:
+
+> $ code .
+
+### by using this syntax , you will automatically redirected to VS Code and we can modify the code.
+
 
 
 
