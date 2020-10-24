@@ -186,7 +186,7 @@ html $-->current directory is displayed here
 
 **7) Git flow review**
 
-<img src="https://d2aj9sy12tbpym.cloudfront.net/progate/shared/images/slide/git/study/1/1505178675471.png" height="250px" width="250px">
+<img src="https://lh3.googleusercontent.com/zgY43xtN6BAfKE38-Ff86olmqJb0FUu24X6cZZfv0GjklZ5w4qqH-z24txWCzplS8wftzw=s116" height="250px" width="250px">
 
 
 
