@@ -2,7 +2,7 @@
 
 ## This repository has unix command-line and git cheatsheet.
 
-**1)CREATING FILES:**
+**1) CREATING FILES:**
 
 - General Syntax:
 
@@ -12,7 +12,7 @@
 
 > $ touch sample.txt
 
-**2)Displaying content of a file:**
+**2) Displaying content of a file:**
 
 - General Syntax:
 
@@ -24,7 +24,7 @@
 
 #content-Hello World
 
-**3)Creating a directory:**
+**3) Creating a directory:**
 
 - General Syntax:
 
@@ -34,7 +34,7 @@
 
 > $ mkdir html
 
-**4)Moving between directories:**
+**4) Moving between directories:**
 
 - General Syntax:
 
@@ -46,31 +46,31 @@
 
 html $-->current directory is displayed here
 
-**5)Checking the current directory:**
+**5) Checking the current directory:**
 
 - General Syntax:
 
 > $ pwd
 
-**6)Displaying a list of files:**
+**6) Displaying a list of files:**
 
 - General Syntax:
 
 > $ ls
 
-**7)Parent Directory:**
+**7) Parent Directory:**
 
 - General Syntax:
 
 > $ cd ..
 
-**8)Home Directory:**
+**8) Home Directory:**
 
 - General Syntax:
 
 > $ cd
 
-**9)Moving files and directories:**
+**9) Moving files and directories:**
 
 *Moving a file:*
 
@@ -96,7 +96,7 @@ html $-->current directory is displayed here
 
 > $ mv html ruby
 
-**10)Renaming files and directories:**
+**10) Renaming files and directories:**
 
 - General Syntax:
 
@@ -106,7 +106,7 @@ html $-->current directory is displayed here
 
 > $ mv ss.txt mm.txt
 
-**11)Copying files and directories:**
+**11) Copying files and directories:**
 
 - General Syntax:
 
@@ -116,7 +116,7 @@ html $-->current directory is displayed here
 
 > $ cp dojo.txt project.txt
 
-**12)Removing files and directories:**
+**12) Removing files and directories:**
 
 - General Syntax:
 
@@ -130,6 +130,6 @@ html $-->current directory is displayed here
 
 # Progate-git-course:
 
-**1)Creating a new empty repository**
+**1) Creating a new empty repository**
 
 
