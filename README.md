@@ -156,6 +156,10 @@ html $-->current directory is displayed here
 
 > $ git commit -m "Create index.html"
 
+**4) Adding remote repository**
+
+![Reference](https://d2aj9sy12tbpym.cloudfront.net/progate/shared/images/slide/git/study/1/1505178639487.png)
+
 
 
 
