@@ -1,6 +1,6 @@
 # Progate-CL-Course:
 
-## This repository has unix command-line and git cheatsheet.
+## This repository has unix command-line and git cheatsheet/documentation.
 
 **1) CREATING FILES:**
 
